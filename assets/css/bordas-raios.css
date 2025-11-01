@@ -1,0 +1,11 @@
+.iguais{
+    border-radius: 50px;
+}
+
+.diferentes{
+    border-radius: 50px 3px 20px 10px;
+}
+
+.redondos{
+    border-radius: 50%;
+}

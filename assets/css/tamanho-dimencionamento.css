@@ -1,0 +1,16 @@
+.max-width{
+    width: 100%;
+    max-width: 50px;
+}
+
+.width{
+    width: 80%;
+}
+
+.height{
+    height: 40px;
+}
+
+.min-height{
+    min-height: 50vh;
+}

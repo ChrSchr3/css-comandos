@@ -1,0 +1,23 @@
+.a1{
+    list-style-type: lower-alpha;
+}
+
+.a2{
+    list-style-position: inside;
+}
+
+.a3{
+    list-style: square inside url(imagem01);
+}
+
+.b1{
+    cursor: pointer;
+}
+
+.b2{
+    cursor: w-resize;
+}
+
+.b3{
+    cursor: col-resize;
+}
